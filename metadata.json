@@ -1,0 +1,6 @@
+{
+  "name": "Alarms",
+  "description": "Smart persistent alarm clock app with customizable alerts, Ktor sync notifications, stopwatch, timer, and world clock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
